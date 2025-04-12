@@ -1,0 +1,42 @@
+status     Show the working tree status
+
+ init       Create an empty Git repository or reinitialize an existing one
+
+commit     Record changes to the repository
+
+push       Update remote refs along with associated objects
+   
+status  نعرف احنا وين من العملية لما نكون عاملين اكتر من كومت وهيك
+
+init انشاء ريبو امتداده .git 
+
+commit حفظ نسخة ن العمل باسم 
+
+push دفع الملف الخاص بالمشروع من الجهاز الى الموقع git hub
+
+
+
+2-----------
+some divices like mine did not accept  to 
+commit changes directly from the working directory with out the add command 
+ثانيا المرحلة الثانية في عملية نقل بتعطي مجال اكبر للتعديل والتاكيد لانه بمجرد ما نعمل كومت صعب لتراجع او الحذف 
+
+
+3---------------
+
+     a****** GitLab.  Bitbucket.
+
+   b****** 1- التحكم في الاصدارات    
+                  2-  تبادل اكواد في الفريق الواحد
+                  3- مراجعة لكود قبل دمجه بشكل نهائي 
+                  4- توفير نسخ احتياطية امنة "قبل وجود اخطاء"
+                 
+     c****** true they can
+
+
+4-----------
+
+-u يجعل Git يربط الفرع المحلي مع الفرع البعيد، وهذا يسهل عليك الكتابة في المستقبل لأنك مش محتاج تكرر origin main في كل مرة تستخدم git push أو git pull. 
+
+
+
